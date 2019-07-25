@@ -11,9 +11,8 @@ Your goal is to avoid the space ships
 The ships sound like this: *play left and right sound*
 
 
-When you hear the sound from your left
-slide your finger to the right side of the screen
-The same rules apply for when you hear a sound on your right
+When a sound is heard on one side
+Slide your finger away from where the sound originated
 
 
 When you’re ready to play tap the top half of your screen
