@@ -1,4 +1,18 @@
 ﻿Welcome to incoming!
+Your goal is to avoid the spaceships.
+when a ship is heard this sound will play:
+This is your left sound:
+this is your right sound:
+when a sound is heard, slide your finger towards where the sound originated 
+tap the screen to play
+
+welcome to incoming
+your goal is to avoid the spaceships
+when a ship is nearby you will feel a vibration
+this is the left vibration:
+this is the right vibration:
+when you feel a vibration move your finger towards the same side you felt the vibration on
+tap the screen to play
 
 
 This is your left sound:*play left sound*
