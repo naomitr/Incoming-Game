@@ -1,18 +1,4 @@
 ﻿Welcome to incoming!
-Your goal is to avoid the spaceships.
-when a ship is heard this sound will play:
-This is your left sound:
-this is your right sound:
-when a sound is heard, slide your finger towards where the sound originated 
-tap the screen to play
-
-welcome to incoming
-your goal is to avoid the spaceships
-when a ship is nearby you will feel a vibration
-this is the left vibration:
-this is the right vibration:
-when you feel a vibration move your finger towards the same side you felt the vibration on
-tap the screen to play
 
 
 This is your left sound:*play left sound*
@@ -25,11 +11,24 @@ Your goal is to avoid the space ships
 The ships sound like this: *play left and right sound*
 
 
-When a sound is heard on one side
-Slide your finger away from where the sound originated
+When you hear the sound from your left
+slide your finger to the right side of the screen
+The same rules apply for when you hear a sound on your right
 
 
 When you’re ready to play tap the top half of your screen
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Welcome to incoming!
@@ -51,11 +50,3 @@ The same applied for the right side vibrations
 
 
 When you’re ready to play tap the top half of your screen
-
-
-In a world after the Area 51 raid, 
-most have integrated with society
-but some were inprisoned for a reason
-
-run
-the aliens are finally free from thier cages and are trying to destroy the human races' last hope: Savior. 
